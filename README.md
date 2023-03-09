@@ -1,57 +1,40 @@
 # Welcome to PyCon 2023
 
-Learn more about all the things Micrsofot is working on in the Python community!
+
+Table of Contents
+----
+- [Welcome to PyCon 2023](#welcome-to-pycon-2023)
+  - [Table of Contents](#table-of-contents)
+  - [ Take the Azure Django Deployment Speedrun](#-take-the-azure-django-deployment-speedrun)
+  - [Python 3.11 now available on Azure](#python-311-now-available-on-azure)
+    - [Check out our Ask the Expert Sessions:](#check-out-our-ask-the-expert-sessions)
+  - [Deploying to Azure is Easier Than Ever with AZD](#deploying-to-azure-is-easier-than-ever-with-azd)
+  - [VS Code and Python](#vs-code-and-python)
+  - [Microsoft is Helping Make Python Faster](#microsoft-is-helping-make-python-faster)
+  - [Our PyCon Presentation Schedule](#our-pycon-presentation-schedule)
+    - [PyCon Talks](#pycon-talks)
+    - [Presentations at the Microsoft Booth](#presentations-at-the-microsoft-booth)
+  - [The Team at PyCon](#the-team-at-pycon)
+    - [Microsoft Booth Team](#microsoft-booth-team)
+  - [Hang out with us Virtually](#hang-out-with-us-virtually)
+    - [Join the Microsoft Python Discord](#join-the-microsoft-python-discord)
+    - [Check out the Python Pulse](#check-out-the-python-pulse)
+  - [Contributing](#contributing)
+  - [Trademarks](#trademarks)
+
+
 
 ![BIT our Cloud Mascot Enjoying his time at a coworking space](/assets/bit_cropped_coworking.png)
 
-## The Team at PyCon
 
-Visit us around at the Microsoft Booth or out in the Hallway Track!
+Learn more about all the things Microsoft is working on in the Python community!
 
-### Micrsoft Booth Team
-||||
-|---|---|---|
-|Brandt Bucher (He/Him)|Dawn Wages (She/Her)|Eryn Clark (She/Her)|
-|Jay Miller (They/Them)|Savannah Ostrowski (She/Her)|Lucianna Abud (She/Her)|
-
-|PyCon Virtual Team|
-|---|
-|Aaron Wislang (He/Him)|
-
-We have a lot of great things to show you! Check out our [schedule](#schedule) below!
-
-## Hang out with us Virtually
-
-### Join the Microsoft Python Discord
-Join our [Microsoft Python Discord](https://aka.ms/python-discord) and connect with other Python developers in the Microsoft Community.
-<https://aka.ms/python-discord>
-
-### Check out the Python Pulse
-
-![Python Pulse](assets/python_pulse_banner_1MB-1024x576.png)
-
-Tune into our monthly Python Pulse Series to get updated on the latest Python news and announcements around Microsoft!
-
-https://www.youtube.com/watch?v=WByQs82d29Y
 
 ## ![BIT in a racing outfit](assets/bit_race.png) Take the Azure Django Deployment Speedrun
 
 Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to take the Azure deployment speedrun! Our top runners will recieve a prize!
 
 Learn More - <LINK TO SPEEDRUN PAGE>
-
-## VS Code and Python
-
-VS Code is great for Code Editor and we are working hard to make it even better!
-
-- Learn about the latest [Python Features in VS Code](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2023-release/).
-- Learn about our updates to the [Jupyter Notebook extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) in VS Code and the all new [Data Wrangler](# TODO: Get Link to Data Wrangler)!
-- Make Contributing faster and easier with [devcontainers](https://containers.dev) and [GitHub Codespaces](https://github.com/features/codespaces)!
-- [Github Copilot](https://github.com/features/copilot/) makes for an awesome pair programmer!
-
-Check out a Recent Python Livestream launch party
-
-\# TODO: Add link to Python extension launch party
 
 ## Python 3.11 now available on Azure
 
@@ -66,6 +49,16 @@ You can now deploy your Python application to Azure with a simple command!
 Learn more about the [Azure Developer CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli). 
 
 Want to get started quickly? Check out [some templates](https://azure.github.io/awesome-azd/) from us and the community!
+
+## VS Code and Python
+
+VS Code is great for Code Editor and we are working hard to make it even better!
+
+- Learn about the latest [Python Features in VS Code](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2023-release/).
+- Learn about our updates to the [Jupyter Notebook extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) in VS Code and the all new [Data Wrangler](https://www.youtube.com/watch?v=WByQs82d29Y)!
+- Make Contributing faster and easier with [devcontainers](https://containers.dev) and [GitHub Codespaces](https://github.com/features/codespaces)!
+- [Github Copilot](https://github.com/features/copilot/) makes for an awesome pair programmer!
+
 
 ## Microsoft is Helping Make Python Faster
 
@@ -102,8 +95,36 @@ If you're in the Expo Hall check out some of our special presentations and enter
 |A Talk Python To Me Special| Michael Kennedyi & Jay Miller|TBD|
 
 
+## The Team at PyCon
+
+Visit us around at the Microsoft Booth or out in the Hallway Track!
+
+### Microsoft Booth Team
+||||
+|---|---|---|
+|Brandt Bucher (He/Him)|Dawn Wages (She/Her)|Eryn Clark (She/Her)|
+|Jay Miller (They/Them)|Savannah Ostrowski (She/Her)|Lucianna Abud (She/Her)|
+
+|PyCon Virtual Team|
+|---|
+|Aaron Wislang (He/Him)|
+
+We have a lot of great things to show you! Check out our [schedule](#schedule) below!
+
+## Hang out with us Virtually
+
+### Join the Microsoft Python Discord
+Join our [Microsoft Python Discord](https://aka.ms/python-discord) and connect with other Python developers in the Microsoft Community.
+<https://aka.ms/python-discord>
+
+### Check out the Python Pulse
+
+![Python Pulse](assets/python_pulse_banner_1MB-1024x576.png)
+
+Tune into our monthly Python Pulse Series to get updated on the latest Python news and announcements around Microsoft!
 
 ---
+
 
 ## Contributing
 
