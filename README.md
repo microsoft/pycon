@@ -34,8 +34,6 @@ Tune into our monthly Python Pulse Series to get updated on the latest Python ne
 
 https://www.youtube.com/watch?v=WByQs82d29Y
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WByQs82d29Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## ![BIT in a racing outfit](assets/bit_race.png) Take the Azure Django Deployment Speedrun
 
 Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to take the Azure deployment speedrun! Our top runners will recieve a prize!
@@ -57,6 +55,10 @@ Check out a Recent Python Livestream launch party
 ## Python 3.11 now available on Azure
 
 Python 3.11 is now available on Azure! Learn how to deploy your next Python 3.11!
+
+### Check out our Ask the Expert Sessions:
+- [Deploying a Python 3.11 Application to Azure App Service](# TODO: ADD LINK)
+- [Deploying a Python Project with Azure Container Apps](# TODO: ADD LINK)
 
 
 ## Microsoft is Helping Make Python Faster
@@ -91,7 +93,7 @@ If you're in the Expo Hall check out some of our special presentations and enter
 |Ask Brett (a)Bout Anything (ABBA)|Brett Cannon|22 Apr 3:15-4:00|
 |Python Testing with Playwright|Andrew Knight (Applitools)|TBD|
 |Setting up AZD for our Django Application| Savannah Ostrowski|TBD|
-|A Talk Python To Me Special| Michael Kennedy|TBD|
+|A Talk Python To Me Special| Michael Kennedyi & Jay Miller|TBD|
 
 
 ## Contributing
