@@ -46,8 +46,8 @@ VS Code is great for Code Editor and we are working hard to make it even better!
 
 - Learn about the latest [Python Features in VS Code](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2023-release/).
 - Learn about our updates to Jupyter Notebooks in VS Code and the all new Data Wrangler!
-- Make Contributing faster and easier with devcontainers and GitHub Codespaces!
-- Github Copilot makes for an awesome pair programmer!
+- Make Contributing faster and easier with [devcontainers](https://containers.dev) and [GitHub Codespaces](https://github.com/features/codespaces)!
+- [Github Copilot](https://github.com/features/copilot/) makes for an awesome pair programmer!
 
 Check out a Recent Python Livestream launch party
 <Youtube Embed>
