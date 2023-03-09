@@ -45,12 +45,13 @@ Learn More - <LINK TO SPEEDRUN PAGE>
 VS Code is great for Code Editor and we are working hard to make it even better!
 
 - Learn about the latest [Python Features in VS Code](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2023-release/).
-- Learn about our updates to Jupyter Notebooks in VS Code and the all new Data Wrangler!
+- Learn about our updates to the [Jupyter Notebook extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) in VS Code and the all new [Data Wrangler](# TODO: Get Link to Data Wrangler)!
 - Make Contributing faster and easier with [devcontainers](https://containers.dev) and [GitHub Codespaces](https://github.com/features/codespaces)!
 - [Github Copilot](https://github.com/features/copilot/) makes for an awesome pair programmer!
 
 Check out a Recent Python Livestream launch party
-<Youtube Embed>
+
+\# TODO: Add link to Python extension launch party
 
 ## Python 3.11 now available on Azure
 
@@ -77,7 +78,7 @@ Learn more about the Faster CPython Team and how they are contributing to the Py
 
 ### PyCon Talks
 
-Check out what some of our Team Members are presenting at PyCon!
+Catch some of the talks from our Team Members presenting at PyCon!
 
 |Title|Presenter|Time (All Times Local to Salt Lake City)|Location |
 |---|---|---|---|
@@ -100,6 +101,9 @@ If you're in the Expo Hall check out some of our special presentations and enter
 |Setting up AZD for our Django Application| Savannah Ostrowski|TBD|
 |A Talk Python To Me Special| Michael Kennedyi & Jay Miller|TBD|
 
+
+
+---
 
 ## Contributing
 
