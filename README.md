@@ -18,6 +18,7 @@ Table of Contents
     - [Microsoft Booth Team](#microsoft-booth-team)
   - [Hang out with us Virtually](#hang-out-with-us-virtually)
     - [Join the Microsoft Python Discord](#join-the-microsoft-python-discord)
+    - [Join us for PyDay](#join-us-for-pyday)
     - [Check out the Python Pulse](#check-out-the-python-pulse)
   - [Contributing](#contributing)
   - [Trademarks](#trademarks)
@@ -116,6 +117,10 @@ We have a lot of great things to show you! Check out our [schedule](#schedule) b
 ### Join the Microsoft Python Discord
 Join our [Microsoft Python Discord](https://aka.ms/python-discord) and connect with other Python developers in the Microsoft Community.
 <https://aka.ms/python-discord>
+
+### Join us for PyDay
+
+Get ready to level up your Python skills! Join us on May 2nd, 2023 for an exciting session led by experienced developer and educator Pamela Fox, where you'll learn how to build, test, and deploy HTTP APIs and web applications using the 3 most popular Python frameworks: FastAPI, Django, and Flask.
 
 ### Check out the Python Pulse
 
