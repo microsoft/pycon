@@ -30,9 +30,11 @@ Table of Contents
 Learn more about all the things Microsoft is working on in the Python community!
 
 
-## ![BIT in a racing outfit](assets/bit_race.png) Take the Azure Django Deployment Speedrun
+## Take the Azure Django Deployment Speedrun :car: 💨
 
-Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to take the Azure deployment speedrun! Our top runners will recieve a prize!
+Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to take the Azure deployment speedrun! 
+
+See how fast you can deploy a webapp to azure. Our top runners will recieve a prize!
 
 Learn More - <LINK TO SPEEDRUN PAGE>
 
@@ -85,14 +87,44 @@ Catch some of the talks from our Team Members presenting at PyCon!
 
 If you're in the Expo Hall check out some of our special presentations and enter to win some great prizes!
 
-|Title|Presenter|Time (All Times Local to Salt Lake City)|
-|---|---|---|
-|Deploying a Django Application to Azure Using VS Code|Dawn Wages|TBD|
-|Your VS Code Hacks!|Luciana Abud|TBD|
-|Ask Brett (a)Bout Anything (ABBA)|Brett Cannon|22 Apr 3:15-4:00|
-|Python Testing with Playwright|Andrew Knight (Applitools)|TBD|
-|Setting up AZD for our Django Application| Savannah Ostrowski|TBD|
-|A Talk Python To Me Special| Michael Kennedyi & Jay Miller|TBD|
+### Talk Python To Me Special
+
+- **Presenters**: Michael Kennedy & Jay Miller
+- **Time**: Friday 21 April @ 10:15
+
+Long time python podcaster Michael Kennedy is doing a special episiode of [Talk Python to Me](https://talkpython.fm/) live from the Microsoft Booth!
+
+![talk Python Logo](https://user-images.githubusercontent.com/8632637/228965818-94f615bd-3e38-499e-8339-f74c15ca3509.png)
+
+### Deploying a Django Application to Azure Using VS Code
+
+- **Presenter**: Dawn Wages
+- **Time**: Friday 21 April @ 13:00
+
+Learn how to take your Django Application and deploy it to Azure without ever leaving your editor. Dawn Wages will walk through deploying an application in VS Code.
+
+### Supercharge your VS Code Session
+
+- **Presenter**: Luciana Abud
+- **Time**: Friday 21 April @ 15:30
+
+### Python Testing with Playwright
+
+- **Presenter**: Andrew Knight (Applitools
+- **Time**: Saturday 22 April @ 10:20
+
+The Playwright Ambassador and Automation Panda Andrew Knight visits the booth to give a lesson on testing your application using Playwright!
+
+### Setting up AZD for our Django Application
+
+- **Presenter**: Savannah Ostrowski
+- **Time**: Saturday 22 April @ 13:00
+
+### Ask Brett (a)Bout Anything (ABBA)
+- **Presenter**: Brett Cannon
+- **Time**: Saturday 22 April @ 15:15
+
+Brett Cannon will join us for an AMA around all things Python, VS Code, or just Brett Cannon!
 
 
 ## The Team at PyCon
