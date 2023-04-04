@@ -110,7 +110,7 @@ Learn how to take your Django Application and deploy it to Azure without ever le
 
 ### Python Testing with Playwright
 
-- **Presenter**: Andrew Knight (Applitools
+- **Presenter**: Andrew Knight (Applitools)
 - **Time**: Saturday 22 April @ 10:20
 
 The Playwright Ambassador and Automation Panda Andrew Knight visits the booth to give a lesson on testing your application using Playwright!
