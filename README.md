@@ -134,8 +134,9 @@ Visit us around at the Microsoft Booth or out in the Hallway Track!
 ### Microsoft Booth Team
 ||||
 |---|---|---|
-|Brandt Bucher (He/Him)|Dawn Wages (She/Her)|Eryn Clark (She/Her)|
-|Jay Miller (They/Them)|Savannah Ostrowski (She/Her)|Lucianna Abud (She/Her)|
+|Lucianna Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly
+|Jay Miller (They/Them)|Krista Pratico (She/Her)|Savannah Ostrowski (She/Her)|
+|Dawn Wages (She/Her)|||
 
 |PyCon Virtual Team|
 |---|
