@@ -134,7 +134,7 @@ Visit us around at the Microsoft Booth or out in the Hallway Track!
 ### Microsoft Booth Team
 ||||
 |---|---|---|
-|Lucianna Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly
+|Lucianna Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly (He/Him)|
 |Jay Miller (They/Them)|Krista Pratico (She/Her)|Savannah Ostrowski (She/Her)|
 |Dawn Wages (She/Her)|||
 
