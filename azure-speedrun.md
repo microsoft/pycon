@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/8632637/232080155-05c8a0cf-69d8-4b7a-9
 
 In order to get credit for the challenge:
 
-1. You must uccessfully deploy a replica of the [Azure Django Postgres ACA Project](https://github.com/azure-samples/azure-django-postgres-aca) to Azure Container Apps USING the azd pipeline config step in the [Bonus: Using AZD + GitHub Actions to Manage your Deployment][lab-bonus] section. The passing pipeline action will be one of the determining factors. The GitHub Action Workflow can be either Manually Triggered or Triggered via Automation.
+1. You must successfully deploy a replica of the [Azure Django Postgres ACA Project](https://github.com/azure-samples/azure-django-postgres-aca) to Azure Container Apps USING the azd pipeline config step in the [Bonus: Using AZD + GitHub Actions to Manage your Deployment][lab-bonus] section. The passing pipeline action will be one of the determining factors. The GitHub Action Workflow can be either Manually Triggered or Triggered via Automation.
 2. You must have created AND SUBMITTED your new deployment within the time-frame of the competition. We will start accepting contributions on the 20 April 2023 at 5:00pm MDT (-06:00) and the window will close on the 27th Anywhere on Earth.
 3. Your website must be working to get credit. If your site is down due to a system error beyond your control, it will be reviewed on a case by case basis.
 4. The link for your site must not match any other previously submitted entry.
