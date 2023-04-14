@@ -50,7 +50,7 @@ Python 3.11 is now available on Azure! Learn how to deploy your next Python 3.11
 You can now deploy your Python application to Azure with a simple command!
 Learn more about the [Azure Developer CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli). 
 
-Want to get started quickly? Check out [some templates](https://azure.github.io/awesome-azd/) from us and the community!
+Want to get started quickly? Check out [the awesome AZD template library](https://azure.github.io/awesome-azd/) from us and the community!
 
 ## VS Code and Python
 
@@ -77,11 +77,10 @@ Catch some of the talks from our Team Members presenting at PyCon!
 
 |Title|Presenter|Time (All Times Local to Salt Lake City)|Location |
 |---|---|---|---|
-|Inside CPython 3.11's new specializing, adaptive interpreter.| Brandt Bucher|21 Apr @ 11:30|355DEF|
-|A Per-Interpreter GIL: Concurrency and Parallelism with Subinterpreters| Eric Snow |21 Apr @ 15:30| 355ABC |
-|Python's Syntactic Sugar|Brett Cannon|22 Apr @ 11:30|355ABC|
-|How we are making CPython faster. Past, present and future| Mark Shannon| 22 Apr @ 14:30|355ABC| 
-
+|[Inside CPython 3.11's new specializing, adaptive interpreter.](https://us.pycon.org/2023/schedule/presentation/6/)| Brandt Bucher|Friday 21 April @ 11:30|355DEF|
+|[A Per-Interpreter GIL: Concurrency and Parallelism with Subinterpreters](https://us.pycon.org/2023/schedule/presentation/54/)| Eric Snow |21 April @ 15:30| 355ABC |
+|[Python's Syntactic Sugar](https://us.pycon.org/2023/schedule/presentation/41/)|Brett Cannon|Saturday 22 April @ 11:30|355ABC|
+|[How we are making CPython faster. Past, present and future](https://us.pycon.org/2023/schedule/presentation/73/)| Mark Shannon|Saturday 22 April @ 14:30|355ABC| 
 
 ### Presentations at the Microsoft Booth
 
@@ -152,12 +151,11 @@ Join our [Microsoft Python Discord](https://aka.ms/python-discord) and connect w
 
 ### Check out the Python Pulse
 
-![Python Pulse](assets/python_pulse_banner_1MB-1024x576.png)
+[![Python Pulse](assets/python_pulse_banner_1MB-1024x576.png)](https://youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E)
 
-Tune into our monthly Python Pulse Series to get updated on the latest Python news and announcements around Microsoft!
+Tune into our monthly [Python Pulse](https://youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E) Series to get updated on the latest Python news and announcements around Microsoft!
 
 ---
-
 
 ## Contributing
 
