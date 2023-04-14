@@ -1,8 +1,12 @@
-![Bit in a Racing Outfit](assets/bit_race.png)
+<img src="assets/bit_race.png" style="height: 300px;">
 
 # How Fast Can You Deploy A Django Project to Azure
 
-We're going to show you an incredibly fast way to deploy your django projects to Azure.
+Using [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/) and Azure Developer CLI is an incredibly fast way to deploy your Python web application.
+
+Try for yourself and with just a few commands, you can create a containerized Django application and deploy it to the Azure, saving you time and effort.
+
+This challenge walks you through deploying a containerized Django Architecture with PostgreSQL, and secured secret management via Key Vault using Azure Developer CLI. 
 
 ![Relecloud Site](assets/Relecloud%20Site.png)
 
@@ -12,10 +16,7 @@ The First 20 people to complete the challenge will receive a $50 Gift Card to [T
 ## Take the Challenge
 
 1. Join the [Microsoft Python Discord Server](https://aka.ms/python-discord). You will be submitting your answer to the lab there.
-2. Visit the python-virtual-labs channel & check the pinned link
-
-    ![python-virtual-labs](assets/ms-python-discord-python-labs.png)
-3. Go to <https://github.com/azure-samples/azure-django-postgres-aca> and run through the modules in [the Lab](https://github.com/Azure-Samples/azure-django-postgres-aca/tree/main/lab). (Hint: You can use the fast track to start from zero and quickly deploy your project). 
+2. Go to <https://github.com/azure-samples/azure-django-postgres-aca> and run through the modules in [the Lab](https://github.com/Azure-Samples/azure-django-postgres-aca/tree/main/lab/README.md). (Hint: You can use the fast track to start from zero and quickly deploy your project). 
 
 4. **BEFORE YOU TEARDOWN**: Complete the [Bonus: Using AZD + GitHub Actions to Manage your Deployment][lab-bonus] section. When prompted, please select create a Private GitHub Repo.
 
