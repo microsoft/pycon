@@ -4,7 +4,7 @@
 
 Using [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/) and Azure Developer CLI is an incredibly fast way to deploy your Python web application.
 
-Try for yourself and with just a few commands, you can create a containerized Django application and deploy it to the Azure, saving you time and effort.
+Try for yourself and with just a few commands, create a containerized Django application and deploy it to the Azure.
 
 This challenge walks you through deploying a containerized Django Architecture with PostgreSQL, and secured secret management via Key Vault using Azure Developer CLI. 
 
@@ -15,7 +15,7 @@ The First 20 people to complete the challenge will receive a $50 Gift Card to [T
 
 ## Take the Challenge
 
-1. Join the [Microsoft Python Discord Server](https://aka.ms/python-discord). You will be submitting your answer to the lab there.
+1. Join the [Microsoft Python] Discord server. You will be submitting your answer to the lab there.
 2. Run through the modules in our [Azure Django Postgres ACA Lab](https://github.com/Azure-Samples/azure-django-postgres-aca/tree/main/lab/README.md). (Hint: You can use the [fast track](https://github.com/Azure-Samples/azure-django-postgres-aca/tree/main/lab/fasttrack.md) to start from zero and quickly deploy your project). 
 3. **BEFORE YOU TEARDOWN**: Complete the [Bonus: Using AZD + GitHub Actions to Manage your Deployment][lab-bonus] section. If you don't have a GitHub repo created please save your project to a repo and ensure that [visibility is set to public](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
 
@@ -24,7 +24,7 @@ The First 20 people to complete the challenge will receive a $50 Gift Card to [T
 
 https://user-images.githubusercontent.com/8632637/232080155-05c8a0cf-69d8-4b7a-92fd-8b413bf1c1b2.mp4
 
-7. Share a link to your GitHub repository in the **#python-virtual-labs** channel.
+7. Share a link to your GitHub repository in the [**#python-virtual-labs**](https://discord.com/channels/702724176489873509/718335138299248660) channel in the [Microsoft Python] Discord.
 
 
 ## Rules to Qualify
@@ -39,3 +39,4 @@ In order to get credit for the challenge, you must:
 
 
 [lab-bonus]: https://github.com/Azure-Samples/azure-django-postgres-aca/blob/main/lab/bonus-07-use-azd-template.md
+[Microsoft Python]: https://aka.ms/python-discord
