@@ -23,15 +23,15 @@ The first 20 people to complete the challenge will receive a $50 Gift Card to [T
 
 https://user-images.githubusercontent.com/8632637/232080155-05c8a0cf-69d8-4b7a-92fd-8b413bf1c1b2.mp4
 
-7. Share a link to your GitHub repository in the [**#python-virtual-labs**](https://discord.com/channels/702724176489873509/718335138299248660) channel in the [Microsoft Python] Discord.
+5. Share a link to your GitHub repository in the [**#python-virtual-labs**](https://discord.com/channels/702724176489873509/718335138299248660) channel in the [Microsoft Python] Discord.
 
 ## Rules to qualify
 
 In order to get credit for the challenge:
 
-1. Have CREATED AND SUBMITTED your new deployment within the time-frame of the competition. We will start accepting contributions on the 20 April 2023 at 5:00pm MDT (-06:00) and the window will close on the 27 April 2023 Anywhere on Earth.
+1. You must have CREATED AND SUBMITTED your new deployment within the time-frame of the competition. We will start accepting contributions on the 20 April 2023 at 5:00pm MDT (-06:00) and the window will close on the 27 April 2023 Anywhere on Earth.
 2. You must successfully deploy a replica of the [Azure Django Postgres ACA Project](https://github.com/azure-samples/azure-django-postgres-aca) to Azure Container Apps USING the azd pipeline config step in the [Bonus: Using AZD + GitHub Actions to Manage your Deployment][lab-bonus] section. The passing pipeline action will be one of the determining factors. The GitHub Action Workflow can be either Manually Triggered or Triggered via Automation.
-3. Your GitHub repo must be public. (If you used azd pipeline config and created a private repo, [here are the steps to change the vsibility](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
+3. Your GitHub repo must be public. (If you used azd pipeline config and created a private repo, [here are the steps to change the visibility](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
 4. Your website must be working to get credit. If you're site is down due to a system error beyond your control, it will be reviewed on a case by case basis.
 5. The link for your site must not match any other previously submitted entry.
 
