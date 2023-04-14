@@ -43,8 +43,8 @@ Learn More - <LINK TO SPEEDRUN PAGE>
 Python 3.11 is now available on Azure! Learn how to deploy your next Python 3.11!
 
 ### Check out our Ask the Expert Sessions:
-- [Deploying a Python 3.11 Application to Azure App Service](# TODO: ADD LINK)
-- [Deploying a Python Project with Azure Container Apps](# TODO: ADD LINK)
+- [Deploying a Python 3.11 Application to Azure App Service - Youtube](https://www.youtube.com/watch?v=lwNzb5pRn08)
+- [Deploying a Python Project with Azure Container Apps - Youtube](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)
 
 ## Deploying to Azure is Easier Than Ever with AZD
 You can now deploy your Python application to Azure with a simple command!
