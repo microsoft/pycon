@@ -128,10 +128,10 @@ Brett Cannon will join us for an AMA around all things Python, VS Code, or just 
 
 ## The Team at PyCon
 
-Visit us around at the Microsoft Booth or out in the Hallway Track!
+Visit us at the Microsoft Booth or out in the Hallway Track!
 
 ### Microsoft Booth Team
-||||
+|Conference Booth Team|||
 |---|---|---|
 |Lucianna Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly (He/Him)|
 |Jay Miller (They/Them)|Krista Pratico (She/Her)|Savannah Ostrowski (She/Her)|
@@ -140,6 +140,8 @@ Visit us around at the Microsoft Booth or out in the Hallway Track!
 |PyCon Virtual Team|
 |---|
 |Aaron Wislang (He/Him)|
+|Sarah Kaiser (She/Her)|
+|Pamela Fox (She/Her)|
 
 We have a lot of great things to show you! Check out our [schedule](#schedule) below!
 
