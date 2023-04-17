@@ -1,11 +1,13 @@
 # Welcome to PyCon 2023
 
+<img src="/assets/Bit%20Steps.png" class="height: 720px" alt="Bit our Cloud Mascot travelling through Utah">
+
 
 Table of Contents
 ----
 - [Welcome to PyCon 2023](#welcome-to-pycon-2023)
   - [Table of Contents](#table-of-contents)
-  - [ Take the Azure Django Deployment Speedrun](#-take-the-azure-django-deployment-speedrun)
+  - [Take the Azure Django Deployment Speedrun :car: 💨](#take-the-azure-django-deployment-speedrun-car-)
   - [Python 3.11 now available on Azure](#python-311-now-available-on-azure)
     - [Check out our Ask the Expert Sessions:](#check-out-our-ask-the-expert-sessions)
   - [Deploying to Azure is Easier Than Ever with AZD](#deploying-to-azure-is-easier-than-ever-with-azd)
@@ -14,6 +16,12 @@ Table of Contents
   - [Our PyCon Presentation Schedule](#our-pycon-presentation-schedule)
     - [PyCon Talks](#pycon-talks)
     - [Presentations at the Microsoft Booth](#presentations-at-the-microsoft-booth)
+    - [Talk Python To Me Special](#talk-python-to-me-special)
+    - [Deploying a Django Application to Azure Using VS Code](#deploying-a-django-application-to-azure-using-vs-code)
+    - [Supercharge your VS Code Session](#supercharge-your-vs-code-session)
+    - [Python Testing with Playwright](#python-testing-with-playwright)
+    - [Setting up AZD for our Django Application](#setting-up-azd-for-our-django-application)
+    - [Ask Brett (a)Bout Anything (ABBA)](#ask-brett-about-anything-abba)
   - [The Team at PyCon](#the-team-at-pycon)
     - [Microsoft Booth Team](#microsoft-booth-team)
   - [Hang out with us Virtually](#hang-out-with-us-virtually)
