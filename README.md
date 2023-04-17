@@ -18,9 +18,9 @@ Learn more about all the things Microsoft is working on in the Python community!
 
 Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to take the Azure deployment speedrun!
 
-See how fast you can deploy a webapp to azure. Our top runners will recieve a prize!
+See how fast you can deploy a webapp to azure. Our top runners will recieve a $50 Gift Card to [The GitHub Shop](https://www.thegithubshop.com/)!
 
-Learn More - <LINK TO SPEEDRUN PAGE>
+[Learn how to participate](azure-speedrun.md)
 
 ## What's New in Microsoft and Python
 ### Python 3.11 now available on Azure
