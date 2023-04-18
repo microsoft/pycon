@@ -25,7 +25,7 @@ See how fast you can deploy a webapp to azure. Our top runners will recieve a $5
 ## What's New in Microsoft and Python
 ### Python 3.11 now available on Azure
 
-Python 3.11 is now available on Azure! Learn how to deploy your next Python 3.11!
+Python 3.11 is now available on Azure! 
 
 ### Check out our Ask the Expert Sessions
 - [Deploying a Python 3.11 Application to Azure App Service - Youtube](https://www.youtube.com/watch?v=lwNzb5pRn08)
