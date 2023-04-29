@@ -62,6 +62,7 @@ Catch some of the talks from our team members presenting at PyCon!
 
 |Title|Presenter|Time (All Times Local to Salt Lake City)|Location |
 |---|---|---|---|
+|[Accelerate your workflow from local Python prototype to the cloud](https://us.pycon.org/2023/schedule/presentation/154/)| Savannah Ostrowski |Thursday April 20 @ 13:30|251C|
 |[Inside CPython 3.11's new specializing, adaptive interpreter.](https://us.pycon.org/2023/schedule/presentation/6/)| Brandt Bucher|Friday 21 April @ 11:30|355DEF|
 |[A Per-Interpreter GIL: Concurrency and Parallelism with Subinterpreters](https://us.pycon.org/2023/schedule/presentation/54/)| Eric Snow |21 April @ 15:30| 355ABC |
 |[Python's Syntactic Sugar](https://us.pycon.org/2023/schedule/presentation/41/)|Brett Cannon|Saturday 22 April @ 11:30|355ABC|
@@ -77,7 +78,7 @@ If you're in the Expo Hall check out some of our special presentations and enter
 | Deploying a Django Application to Azure Using VS Code | Dawn Wages | Friday 21 April @ 13:00 |
 | Supercharge your VS Code Session | Luciana Abud | Friday 21 April @ 15:30 |
 | Python Testing with Playwright | Andrew Knight (Applitools) | Saturday 22 April @ 10:20 |
-| Setting up AZD for our Django Application | Savannah Ostrowski | Saturday 22 April @ 13:00 |
+| Accelerate your workflow from local Python prototype to the cloud | Savannah Ostrowski | Saturday 22 April @ 13:00 |
 | Ask Brett (a)Bout Anything (ABBA) | Brett Cannon | Saturday 22 April @ 15:15 |
 
 ## The Team at PyCon
@@ -88,7 +89,7 @@ Visit us at the Microsoft Booth (booth 206) or out in the Hallway Track!
 
 |Conference Booth Team|||
 |---|---|---|
-|Lucianna Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly (He/Him)|
+|Luciana Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly (He/Him)|
 |Jay Miller (They/Them)|Krista Pratico (She/Her)|Savannah Ostrowski (She/Her)|
 |Dawn Wages (She/Her)|||
 
