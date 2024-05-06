@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Deploying to Azure Container Apps to power your LLMs  
+DTSTART:20240517T224500Z
+DTEND:20240517T233000Z
+DTSTAMP:20240506T175943Z
+UID:1715018383910-DeployingtoAzureContainerAppstopoweryourLLMs
+DESCRIPTION:Deploying to Azure Container Apps to power your LLMs  
+Fully managed serverless container for your Intelligent Python Apps
+
+Learn more: https://aka.ms/pycon24
+
+Devanshi Joshi
+Product Marketing Manager
+Azure Container Apps
+
+Anthony Chu
+Product Manager
+Azure Container Apps
+
+
+
+LOCATION:Booth #301
+ORGANIZER:Microsoft
+STATUS:CONFIRMED
+PRIORITY:0
+END:VEVENT
+END:VCALENDAR

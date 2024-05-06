@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:AMA How Python is getting faster
+DTSTART:20240517T003000Z
+DTEND:20240517T011500Z
+DTSTAMP:20240506T175018Z
+UID:1715017818715-AMAHowPythonisgettingfaster
+DESCRIPTION:Ask Me Anything: How Python is getting faster! with the Faster CPython Team + Special Guest
+
+Learn more: https://aka.ms/pycon24
+
+- Special Guest
+- Michael Droettboom
+- Irit Katriel
+- Brandt Bucher
+- Mark Shannon
+- Eric Snow
+LOCATION:Booth #301
+ORGANIZER:Microsoft
+STATUS:CONFIRMED
+PRIORITY:0
+END:VEVENT
+END:VCALENDAR

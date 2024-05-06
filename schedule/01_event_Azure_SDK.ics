@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Speedrunning the Cloud with the Azure SDK and Developer CLI
+DTSTART:20240517T173000Z
+DTEND:20240517T181500Z
+DTSTAMP:20240506T175323Z
+UID:1715018003555-SpeedrunningtheCloudwiththeAzureSDKandDeveloperCLI
+DESCRIPTION:Speedrunning the Cloud with the Azure SDK and Developer CLI
+
+Learn more: https://aka.ms/pycon24
+
+Rohit Ganguly
+Product Manager
+Azure SDK
+
+
+LOCATION:Booth #301
+ORGANIZER:Microsoft
+STATUS:CONFIRMED
+PRIORITY:0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Python in Excel Demo
+DTSTART:20240517T201500Z
+DTEND:20240517T210000Z
+DTSTAMP:20240506T175457Z
+UID:1715018097372-PythoninExcelDemo
+DESCRIPTION:Python in Excel Demo
+
+Learn more: https://aka.ms/pycon24
+
+Ndeyanta Jallow
+Product Manager
+Excel
+
+Petra Ronald
+Product Manager
+Calc Extensibility
+
+
+LOCATION:Booth #301
+ORGANIZER:Microsoft
+STATUS:CONFIRMED
+PRIORITY:0
+END:VEVENT
+END:VCALENDAR

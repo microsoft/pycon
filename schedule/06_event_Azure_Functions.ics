@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Deploying to Azure Container Apps to power your LLMs  Language Server Protocol to accelerate your development & IntelliSense
+DTSTART:20240518T171500Z
+DTEND:20240518T183000Z
+DTSTAMP:20240506T180444Z
+UID:1715018684384-DeployingtoAzureContainerAppstopoweryourLLMsLanguageServerProtocoltoaccelerateyourdevelopmentIntelliSense
+DESCRIPTION:Azure Functions using Python: Exploring HTTP Streaming and Azure Blob Storage    
+
+Event-based serverless compute experience to accelerate your development
+
+Learn more: https://aka.ms/pycon24
+
+Shreya Batra
+Product Manager 
+Azure Functions
+
+LOCATION:Booth #301
+ORGANIZER:Microsoft
+STATUS:CONFIRMED
+PRIORITY:0
+END:VEVENT
+END:VCALENDAR
