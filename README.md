@@ -179,10 +179,10 @@ Visit us at the Microsoft Booth (booth #301) or out in the Hallway Track!
 |**Courtney Webster** </br> Python VS Code|**Dawn Wages​** </br> Python Community|**Devanshi Joshi**​ </br> Azure Container Apps|
 |**Dmitry Osipov**​ </br> Software Engineer | **Guido Van Rossum​** </br> Distinguished Engineer |**Irit Katriel** (Speaker) </br> CPython|
 |**Johan Stenberg**​ </br> Azure Python SDK Engineer|**Karthik Nadig** </br> Python VS Code Engineer​|**Krista Pratico** </br> Azure Python SDK|
-|**Luciana Abud** </br> Python VS Code​|**Mark Shannon**​ </br> CPython|**Michael Droettboom**​ (Speaker) </br> CPython|**Ndeyanta Jallow** </br> Python in Excel|
-|**Paul Van Eck** </br> Azure Python SDK Engineer ​|**Rohit Ganguly** </br> Azure Python SDK ​|**Sarah Kaiser​** (speaker) </br> ML / Data Science|
-|**Shreya Batra**​ </br> Azure Functions|**Eric Snow** </br> CPython​|**Koushik Krishnan**(Speaker) </br> Site Reliability Engineer|
-|**Tian Gao** (Speaker)</br> Software Engineer |||
+|**Luciana Abud** </br> Python VS Code​|**Mark Shannon**​ </br> CPython|**Michael Droettboom**​ (Speaker) </br> CPython|
+|**Ndeyanta Jallow** </br> Python in Excel|**Petra Ronald** </br> Python in Excel|**Paul Van Eck** </br> Azure Python SDK Engineer ​|
+|**Rohit Ganguly** </br> Azure Python SDK ​|**Sarah Kaiser​** (speaker) </br> ML / Data Science | **Shreya Batra**​ </br> Azure Functions|
+|**Eric Snow** </br> CPython​|**Koushik Krishnan**(Speaker) </br> Site Reliability Engineer| **Tian Gao** (Speaker)</br> Software Engineer |
 
 |PyCon Virtual Team|
 |---|
