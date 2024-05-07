@@ -1,58 +1,57 @@
 # Welcome to PyCon 2023
 
-<img src="assets/Bit%20Steps.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Utah">
+<img src="assets/Bit_Sched.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Utah">
 
 ---
 
-- [Take the Azure Django Deployment Challenge :car: 💨](#take-the-azure-django-deployment-challenge-car-)
-- [What's New in Microsoft and Python](#whats-new-in-microsoft-and-python)
-- [PyCon 2023 Presentation Schedule](#pycon-2023-presentation-schedule)
-- [The Team at PyCon](#the-team-at-pycon)
-- [Hang out with us virtually](#hang-out-with-us-virtually)
+- [🥤 Deploy Simple Flask Server Example, **get a water bottle** ](#Deploy-Simple-Flask-Server-Example-get-a-water-bottle)
+- [🖼️ Scan a badge or give some feedback, **get some stickers**](#🖼️-Scan-a-badge-or-give-some-feedback-get-some-stickers)
+- [👒 Take a survey, **get a beanie**](#👒-Take-a-survey-get-a-beanie)
+- [🎩 Sign up for Azure Open AI, **get a snap back**](🎩-Sign-up-for-Azure-Open-AI-get-a-snap-back)
+- [📅 PyCon Talks by our Microsoft Team!](#PyCon-Talks)
+- [📆 Booth schedule and 'add to calendar'](#Presentations-at-the-Microsoft-Booth-#301)
+- [😁 The Team at PyCon](#the-team-at-pycon)
+- [💬 Hang out with us virtually](#hang-out-with-us-virtually)
 - [Code of Conduct](#code-of-conduct)
 - [Trademarks](#trademarks)
 
 Learn more about all the things Microsoft is working on in the Python community!
 
-## Take the Azure Django Deployment Challenge :car: 💨
+# Want Swag?
+<small>*while supplies last*</small>
 
-Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to take the Azure deployment speedrun!
+## Deploy Simple Flask Server Example, **get a water bottle** 🥤(+15 minutes)
 
-See how fast you can deploy a webapp to azure. Our top runners will recieve a $50 Gift Card to [The GitHub Shop](https://www.thegithubshop.com/)!
+Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to deploy a flask app to Azure App Service!
+
+See how fast you can deploy a webapp to azure. Show us your deployed application and you'll get a $50 Gift Card to [The GitHub Shop](https://www.thegithubshop.com/)!
 
 [Learn how to participate](azure-speedrun.md)
 
-## What's New in Microsoft and Python
-### Python 3.11 now available on Azure
+## 🖼️ Scan a badge or give some feedback, **get some stickers**  (+30 seconds)
 
-Python 3.11 is now available on Azure! 
+We're so glad we talked to you! Your information will not be used for any marketing purposes unless expecitly opted in. Check out the [Microsoft privacy statement](https://privacy.microsoft.com/en-US/privacystatement).
 
-### Check out our Ask the Expert Sessions
-- [Deploying a Python 3.11 Application to Azure App Service - Youtube](https://www.youtube.com/watch?v=lwNzb5pRn08)
-- [Deploying a Python Project with Azure Container Apps - Youtube](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)
+## 👒 Take a survey, **get a beanie** (+6 minutes)
+Take [the survey](https://aka.ms/Pycon24Survey) at the booth and recieve a beanie.
 
-### Deploying to Azure is Easier Than Ever with AZD
+🤔 What type of questions are we asking? 
 
-You can now deploy your Python application to Azure with a simple command!
-Learn more about the [Azure Developer CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
+> If you have one wish for the teams at Microsoft focusing on Python, what would that be?
+---
+> How are **YOU** using Python?
 
-Want to get started quickly? Check out [the awesome AZD template library](https://azure.github.io/awesome-azd/) from us and the community!
+<small>Activity must be initiated at the booth and completede before leaving booth #301.</small>
 
-### VS Code and Python
+## 🎩 Sign up for Azure Open AI, **get a snap back** (+5 minutes)
+- Step one: Create an Azure account if you do not already have one. To create your account and check out all of the free services available to you see  [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/). 
 
-VS Code is great for Code Editor and we are working hard to make it even better!
+- Step two: Visit Azure Open AI application page: [https://aka.ms/oaiapply](https://aka.ms/oaiapply) and follow the instructions provided to complete the registration process.
 
-- Learn about the latest [Python Features in VS Code](https://devblogs.microsoft.com/python/python-in-visual-studio-code-march-2023-release/).
-- Learn about our updates to the [Jupyter Notebook extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) in VS Code and the all new [Data Wrangler](https://www.youtube.com/watch?v=WByQs82d29Y)!
-- Make Contributing faster and easier with [devcontainers](https://containers.dev) and [GitHub Codespaces](https://github.com/features/codespaces)!
-- [GitHub Copilot](https://github.com/features/copilot/) makes for an awesome pair programmer!
+<small>Activity must be initiated at the booth and completede before leaving booth #301.</small>
 
-### Microsoft is Helping Make Python Faster
-
-Learn more about the Faster CPython Team and how they are contributing to the Python Community!
-
-- [About the Faster CPython Team](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
-- Check out [what's in store for Python 3.12](https://github.com/faster-cpython/ideas/blob/main/3.12/README.md)
+## 🎮 Sign up for raffle, **you could win an Xbox!** (+30 seconds)
+C'mon! Try to win a game console, on us.
 
 ## PyCon 2023 Presentation Schedule
 
@@ -60,46 +59,131 @@ Learn more about the Faster CPython Team and how they are contributing to the Py
 
 Catch some of the talks from our team members presenting at PyCon!
 
-|Title|Presenter|Time (All Times Local to Salt Lake City)|Location |
-|---|---|---|---|
-|[Accelerate your workflow from local Python prototype to the cloud](https://us.pycon.org/2023/schedule/presentation/154/)| Savannah Ostrowski |Thursday April 20 @ 13:30|251C|
-|[Inside CPython 3.11's new specializing, adaptive interpreter.](https://us.pycon.org/2023/schedule/presentation/6/)| Brandt Bucher|Friday 21 April @ 11:30|355DEF|
-|[A Per-Interpreter GIL: Concurrency and Parallelism with Subinterpreters](https://us.pycon.org/2023/schedule/presentation/54/)| Eric Snow |21 April @ 15:30| 355ABC |
-|[Python's Syntactic Sugar](https://us.pycon.org/2023/schedule/presentation/41/)|Brett Cannon|Saturday 22 April @ 11:30|355ABC|
-|[How we are making CPython faster. Past, present and future](https://us.pycon.org/2023/schedule/presentation/73/)| Mark Shannon|Saturday 22 April @ 14:30|355ABC|
+|Time (EST)|Topic|Speaker(s)|Location|
+|----|----|----|---|
+|Friday 17 May||||
+|11:45a – 12:15p|[What makes a Python debugger possible and how can we make it 100x faster](https://us.pycon.org/2024/schedule/presentation/6/)|Tian Gao|301-305<ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|Saturday 18 May||||
+|12:00p – 12:45p|[Measuring the performance of CPython](https://us.pycon.org/2024/schedule/presentation/10/)|Michael Droettboom|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|2:30p – 3:00p|[Eternal sunshine of the spotless development environment](https://us.pycon.org/2024/schedule/presentation/123/)|Sarah Kaiser|301-305 <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|3:15p-3:45p|[CPython's Compilation Pipeline](https://us.pycon.org/2024/schedule/presentation/3/)|Irit Katriel|301-305 <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|1:00p – 1:30p|[Rest Easy with Jupyrest: Deploy notebooks as web services](https://us.pycon.org/2024/schedule/presentation/95/)|Koushik Krishnan|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|1:00p – 1:30p|[Rest Easy with Jupyrest: Deploy notebooks as web services](https://us.pycon.org/2024/schedule/presentation/95/)|Koushik Krishnan|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|1:00p – 1:30p|[Building a JIT compiler for CPython](https://us.pycon.org/2024/schedule/presentation/124/)|Brandt Bucher|Ballroom A <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|2:30p – 3:00p|[Unlocking the Parallel Universe: Subinterpreters and Free-Threading in Python 3.13](https://us.pycon.org/2024/schedule/presentation/124/)|Anthony Shaw|Ballroom A <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
 
-### Presentations at the Microsoft Booth
+### Presentations at the Microsoft Booth #301
 
-If you're in the Expo Hall check out some of our special presentations and enter to win a pair of Surface Earbuds!
+If you're in the Expo Hall check out some of our special presentations and **enter to win a XBox**!
 
-| Talk | Presenter | Time (All Times Local to Salt Lake City) |
-| --- | --- | --- |
-|Talk Python Live | Michael Kennedy & Jay Miller| Friday 21 April @ 10:00 |
-| Deploying a Django Application to Azure Using VS Code | Dawn Wages | Friday 21 April @ 13:00 |
-| Supercharge your VS Code Session | Luciana Abud | Friday 21 April @ 15:30 |
-| Python Testing with Playwright | Andrew Knight (Applitools) | Saturday 22 April @ 10:20 |
-| Accelerate your workflow from local Python prototype to the cloud | Savannah Ostrowski | Saturday 22 April @ 13:00 |
-| Ask Brett (a)Bout Anything (ABBA) | Brett Cannon | Saturday 22 April @ 15:15 |
+||Time (EST)|Topic|Speaker(s)|Description|Links|
+|---|----|----|----|---|---|
+|Thursday 16 May|||||
+|<img src="assets/Bit_Sched_Faster_CPython.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|5:30p – 6:15p|AMA How Python is getting faster|<ul><li>Special Guest</li><li>Eric Snow</li><li>Brandt Bucher</li><li>Irit Katriel</li><li>Mark Shannon</li><li>Michael Droettboom</li></ul>||<ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|Friday 17 May|||||
+|<img src="assets/Bit_Sched_azure_sdk.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|10:30a – 11:15a|Speedrunning the cloud with the Azure SDK and Developer CLI|Rohit Ganguly||<ul><li>https://aka.ms/pycon24/add-to-cal/azure-sdk</li></ul>|
+|<img src="assets/Bit_Sched_python_excel.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|1:15p – 2:00p|Python in Excel live demo!|<ul><li>Petra Ronald</li><li>Ndeyanta Jallow</li></ul>||<ul><li>https://aka.ms/pycon24/add-to-cal/python-excel</li></ul>|
+|<img src="assets/Bit_Sched_github_copilot.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|2:45p – 3:30p|Github Copilot live demo!|Kedasha Kerr (GitHub)||<ul><li>https://aka.ms/pycon24/add-to-cal/github-copilot</li></ul>|
+|<img src="assets/Bit_Sched_aca_llm.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|3:45p -4:30p|Deploying to Azure Container Apps to power your LLMs|<ul><li>Devanshi Joshi</li><li>Anthony Chu</li></ul>||<ul><li>https://aka.ms/pycon24/add-to-cal/aca-llm</li></ul>|
+|Saturday 18th May|||||
+|<img src="assets/Bit_Sched_lsp_vsc.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|10:15a – 11:00a|Language Server Protocol to accelerate your development & IntelliSense|Karthik Nadig||<ul><li>https://aka.ms/pycon24/add-to-cal/lsp-vsc</li></ul>|
+|<img src="assets/Bit_Sched_azure_functions.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh showing our upcoming schedule">|11:15a – 12:00p|Azure Functions using Python: Exploring HTTP Streaming and Azure Blob Storage|Shreya Batra||<ul><li>https://aka.ms/pycon24/add-to-cal/azure-functions</li></ul>|
+
+
+# What's New in Microsoft and Python
+
+
+### Azure development workflows just made your life easier
+
+🤖 Develop Python apps that harness the power of Azure AI services: https://aka.ms/azai/
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔃 Learn how to switch between OpenAI and Azure OpenAI endpoints with the Python SDK: https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with these samples: [Azure OpenAI Chat Completions](https://github.com/pamelafox/python-openai-demos) and [Azure OpenAI Assistants](https://github.com/kristapratico/aoai_assistants_demo)!
+
+🏃‍♀️ Speed up your deployment process with the [Azure Developer CLI (azd)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) and [`azd` templates](https://azure.github.io/awesome-azd/) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with this [Azure OpenAI and AI Search sample](https://github.com/Azure-Samples/azure-search-openai-demo)!
+
+⚡ Get the best out of serverless development with [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python) -- now offering a more Pythonic experience with their v2 model for more alignment with the language
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with this [Quickstart Tutorial](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-decorators)!
+
+📢 Python 3.12 is now available on Azure! Check the [Azure Documentation for Python Developers](https://azure.microsoft.com/en-us/resources/developers/python/)
+
+💵 Consult pricing in the [Azure Cost Portal](https://azure.microsoft.com/pricing/calculator/)
+
+➡️ Don't have an Azure account? Sign up for free at https://azure.microsoft.com/en-us/free/
+
+### Superpower your Python development experience 
+
+#### Reproducible dev environments in Visual Studio Code
+
+📂 Get your code to work on any machine with [dev containers](https://code.visualstudio.com/docs/devcontainers/containers)
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with our [TheCatSaidNo](https://github.com/luabud/TheCatSaidNo) Flask sample!
+
+☁️ Take your dev environments to the cloud with [GitHub Codespaces](https://code.visualstudio.com/docs/remote/codespaces)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📺 Check out Dawn Wages's and Pamela Fox's conversation on the [Python Pulse](https://devblogs.microsoft.com/python/announcing-python-pulse/): ["Using PostgreSQL inside VS Code Dev Containers & GitHub Codespaces"](https://www.youtube.com/watch?v=JTHTWp9DIZQ)
+
+#### Boost your productivity when developing Python in Visual Studio Code  
+🧠 Get the best from AI to empower your development experience with [GitHub Copilot](https://code.visualstudio.com/docs/editor/artificial-intelligence)
+
+✨ Check out the [latest features of the Python and Jupyter extensions for VS Code](https://devblogs.microsoft.com/python/)
+
+📊 Revolutionize your data processing workflow with the [Data Wrangler for VS Code](https://aka.ms/datawrangler)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with our [titanic](https://github.com/luabud/pycascades2023-msft/tree/main/titanic) sample!
+
+🖌️ Create your own [Python tools extension for VS Code with our template](https://github.com/microsoft/vscode-python-tools-extension-template)
+
+⚙️ Customize your VS Code experience like never before with [Profiles](https://code.visualstudio.com/docs/editor/profiles), designed to simplify your workflow and boost productivity
+
+🌐 Code anywhere, anytime with [vscode.dev](https://vscode.dev/) and [github.dev](https://github.dev/)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with our [wordle](https://github.com/luabud/wordle) sample!
+
+#### Unlock Excel's Superpowers
+📊  Supercharge your data analysis and tell better stories with [Python in Excel](https://www.microsoft.com/en-ca/microsoft-365/python-in-excel)
+
+### Discover how Microsoft is actively contributing to the growth and development of Python
+
+🐍 Learn how a team at Microsoft is [helping make Python faster](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
+
+🌌 Contribute to the development of [Quantum computing with GitHub Codespaces](https://www.youtube.com/watch?v=nj1ltuk7js8)
+
+## Stay in touch!
+
+🐦 Join us on [Twitter](https://twitter.com/pythonvscode)
+
+💬 Join us on [Discord](https://aka.ms/python-discord)
+
+🐍 Catch us on the [Python Pulse](https://devblogs.microsoft.com/python/announcing-python-pulse/), streamed every month
+
 
 ## The Team at PyCon
 
-Visit us at the Microsoft Booth (booth 206) or out in the Hallway Track!
+Visit us at the Microsoft Booth (booth #301) or out in the Hallway Track!
 
 ### Microsoft booth team
 
 |Conference Booth Team|||
 |---|---|---|
-|Luciana Abud (She/Her)|Eryn Clark (She/Her)|Rohit Ganguly (He/Him)|
-|Jay Miller (They/Them)|Krista Pratico (She/Her)|Savannah Ostrowski (She/Her)|
-|Dawn Wages (She/Her)|||
+|**Anthony Chu​** </br> ACA​| **Anthony Shaw** </br> Azure |**Brandt Bucher​** (Speaker) </br> CPython |
+|**Courtney Webster** </br> Python VS Code|**Dawn Wages​** </br> Python Community|**Devanshi Joshi**​ </br> Azure Container Apps|
+|**Dmitry Osipov**​ </br> Software Engineer | **Guido Van Rossum​** </br> Distinguished Engineer |**Irit Katriel** (Speaker) </br> CPython|
+|**Johan Stenberg**​ </br> Azure Python SDK Engineer|**Karthik Nadig** </br> Python VS Code Engineer​|**Krista Pratico** </br> Azure Python SDK|
+|**Luciana Abud** </br> Python VS Code​|**Mark Shannon**​ </br> CPython|**Michael Droettboom**​ (Speaker) </br> CPython|**Ndeyanta Jallow** </br> Python in Excel|
+|**Paul Van Eck** </br> Azure Python SDK Engineer ​|**Rohit Ganguly** </br> Azure Python SDK ​|**Sarah Kaiser​** (speaker) </br> ML / Data Science|
+|**Shreya Batra**​ </br> Azure Functions|**Eric Snow** </br> CPython​|**Koushik Krishnan** (Speaker) </br> Site Reliability Engineer|**Tian Gao** (Speaker)</br> Software Engineer |
 
 |PyCon Virtual Team|
 |---|
-|Aaron Wislang (He/Him)|
-|Sarah Kaiser (She/Her)|
-|Pamela Fox (She/Her)|
-
-We have a lot of great things to show you! Check out our [schedule](#schedule) below!
+|**Anthony Kim** </br> Python VS Code​|
+|**Eleanor Boyd**​ </br> Python VS Code|
+|**Marlene Mhangami** </br> Azure​|
+|**Pamela Fox** </br> Azure​|
 
 ## Hang out with us virtually
 
@@ -117,6 +201,14 @@ Come say hi to our virtual team members,share your photos with us and make plans
 
 Tune into our monthly [Python Pulse](https://youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E) Series to get updated on the latest Python news and announcements around Microsoft!
 
+## Stay Connected with Microsoft - Microsoft .Source Newsletter
+Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
+
+Get the latest articles, documentation, and events from Microsoft.Source—the curated monthly developer community newsletter. Learn about new technologies and find opportunities to connect with other developers online and locally.
+
+- Stay at the forefront of rapidly evolving technologies with resources that are relevant to your field, location, and areas of interest—including articles, GitHub repositories, and how-to guides.
+- Get notified about events—from local hacks, workshops, and training sessions to virtual meetups and global conferences.
+- Learn what you want, when you want, how you want. Resources include in-person hands-on workshops, free, interactive online training and sandbox environments.
 
 ## Code of Conduct
 
@@ -135,3 +227,8 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+----------
+_Written with the help of artificial intelligence 🤖_
+
+---
