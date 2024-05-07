@@ -4,10 +4,11 @@
 
 ---
 
-- [🥤 Deploy Simple Flask Server Example, **get a water bottle** ](#🥤-Deploy-Simple-Flask-Server-Example-get-a-water-bottle)
-- [🖼️ Scan a badge or give some feedback, **get some stickers**](#🖼️-Scan-a-badge-or-give-some-feedback-get-some-stickers)
-- [👒 Take a survey, **get a beanie**](#👒-Take-a-survey-get-a-beanie)
-- [🎩 Sign up for Azure Open AI, **get a snap back**](🎩-Sign-up-for-Azure-Open-AI-get-a-snap-back)
+- [🥤 Deploy Simple Flask Server Example, **get a water bottle** (+15 minutes)](https://github.com/microsoft/pycon/tree/main#deploy-simple-flask-server-example-get-a-water-bottle-15-minutes)
+- [🖼️ Scan a badge or give some feedback, **get some stickers** (+30 seconds)](https://github.com/microsoft/pycon/blob/main/README.md#%EF%B8%8F-scan-a-badge-or-give-some-feedback-get-some-stickers--30-seconds)
+- [👒 Take a survey, **get a beanie** (+6 minutes)](https://github.com/microsoft/pycon/tree/main#-take-a-survey-get-a-beanie-6-minutes)
+- [🎩 Sign up for Azure Open AI, **get a snap back** (+5 minutes)](https://github.com/microsoft/pycon/tree/main#-sign-up-for-azure-open-ai-get-a-snap-back-5-minutes)
+- [🎮 Sign up for raffle, **you could win an Xbox!** (+30 seconds)](https://github.com/microsoft/pycon/tree/main#-sign-up-for-raffle-you-could-win-an-xbox-30-seconds)
 - [📅 PyCon Talks by our Microsoft Team!](#PyCon-Talks)
 - [📆 Booth schedule and 'add to calendar'](#Presentations-at-the-Microsoft-Booth-301)W
 - [😁 The Team at PyCon](#the-team-at-pycon)
@@ -24,7 +25,7 @@ Learn more about all the things Microsoft is working on in the Python community!
 # Want Swag?
 <small>*while supplies last*</small>
 
-## Deploy Simple Flask Server Example, **get a water bottle** 🥤(+15 minutes)
+## 🥤 Deploy Simple Flask Server Example, **get a water bottle** (+15 minutes)
 
 Python on Azure is faster than ever! That includes everything from deploying it to its performance! To prove it, we challenge you to deploy a flask app to Azure App Service!
 
