@@ -4,18 +4,18 @@
 
 ---
 
-- [🥤 Deploy Simple Flask Server Example, **get a water bottle** ](#Deploy-Simple-Flask-Server-Example-get-a-water-bottle)
+- [🥤 Deploy Simple Flask Server Example, **get a water bottle** ](#🥤-Deploy-Simple-Flask-Server-Example-get-a-water-bottle)
 - [🖼️ Scan a badge or give some feedback, **get some stickers**](#🖼️-Scan-a-badge-or-give-some-feedback-get-some-stickers)
 - [👒 Take a survey, **get a beanie**](#👒-Take-a-survey-get-a-beanie)
 - [🎩 Sign up for Azure Open AI, **get a snap back**](🎩-Sign-up-for-Azure-Open-AI-get-a-snap-back)
 - [📅 PyCon Talks by our Microsoft Team!](#PyCon-Talks)
-- [📆 Booth schedule and 'add to calendar'](#Presentations-at-the-Microsoft-Booth-#301)W
+- [📆 Booth schedule and 'add to calendar'](#Presentations-at-the-Microsoft-Booth-301)W
 - [😁 The Team at PyCon](#the-team-at-pycon)
-- [What's New in Microsoft and Python](#What's-New-in-Microsoft-and-Python)
-- [💬 Hang out with us virtually](#hang-out-with-us-virtually)
+- [What's New in Microsoft and Python](#Whats-New-in-Microsoft-and-Python)
     - [Azure development workflows just made your life easier](#Azure-development-workflows-just-made-your-life-easier)
     - [Superpower your Python development experience](#Superpower-your-Python-development-experience)
-    - [Unlock Excel's Superpowers](#Unlock-Excel's-Superpowers)
+    - [Unlock Excel's Superpowers](#Unlock-Excels-Superpowers)
+- [💬 Hang out with us virtually](#hang-out-with-us-virtually)
 - [Code of Conduct](#code-of-conduct)
 - [Trademarks](#trademarks)
 
