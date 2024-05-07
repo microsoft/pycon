@@ -56,7 +56,7 @@ Take [the survey](https://aka.ms/Pycon24Survey) at the booth and recieve a beani
 <small>Activity must be initiated at the booth and completede before leaving booth #301.</small>
 
 ## 🎮 Sign up for raffle, **you could win an Xbox!** (+30 seconds)
-C'mon! Try to win a game console, on us.
+C'mon! Try to win a game console, on us. **Winner announced Saturday 18th, 12:05pm at booth 301**
 
 ## PyCon 2023 Presentation Schedule
 
