@@ -13,9 +13,9 @@
 - [😁 The Team at PyCon](#the-team-at-pycon)
 - [What's New in Microsoft and Python](#What's-New-in-Microsoft-and-Python)
 - [💬 Hang out with us virtually](#hang-out-with-us-virtually)
-&nbsp;&nbsp;&nbsp;&nbsp; - [Azure development workflows just made your life easier](#Azure-development-workflows-just-made-your-life-easier)
-&nbsp;&nbsp;&nbsp;&nbsp; - [Superpower your Python development experience](#Superpower-your-Python-development-experience)
-&nbsp;&nbsp;&nbsp;&nbsp; - [Unlock Excel's Superpowers](#Unlock-Excel's-Superpowers)
+    - [Azure development workflows just made your life easier](#Azure-development-workflows-just-made-your-life-easier)
+    - [Superpower your Python development experience](#Superpower-your-Python-development-experience)
+    - [Unlock Excel's Superpowers](#Unlock-Excel's-Superpowers)
 - [Code of Conduct](#code-of-conduct)
 - [Trademarks](#trademarks)
 
