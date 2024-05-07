@@ -1,6 +1,6 @@
-# Welcome to PyCon 2023
+# Welcome to PyCon 2024
 
-<img src="assets/Bit_Sched.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Utah">
+<img src="assets/Bit_Sched.png" style="max-height: 400px" alt="Bit our Cloud Mascot travelling through Pittsburgh">
 
 ---
 
