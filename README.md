@@ -10,7 +10,7 @@
 - [🎩 Sign up for Azure Open AI, **get a snap back** (+5 minutes)](https://github.com/microsoft/pycon/tree/main#-sign-up-for-azure-open-ai-get-a-snap-back-5-minutes)
 - [🎮 Sign up for raffle, **you could win an Xbox!** (+30 seconds)](https://github.com/microsoft/pycon/tree/main#-sign-up-for-raffle-you-could-win-an-xbox-30-seconds)
 - [📅 PyCon Talks by our Microsoft Team!](#PyCon-Talks)
-- [📆 Booth schedule and 'add to calendar'](#Presentations-at-the-Microsoft-Booth-301)W
+- [📆 Booth schedule and 'add to calendar'](#Presentations-at-the-Microsoft-Booth-301)
 - [😁 The Team at PyCon](#the-team-at-pycon)
 - [What's New in Microsoft and Python](#Whats-New-in-Microsoft-and-Python)
     - [Azure development workflows just made your life easier](#Azure-development-workflows-just-made-your-life-easier)
@@ -38,7 +38,7 @@ See how fast you can deploy a webapp to azure. Show us your deployed application
 We're so glad we talked to you! Your information will not be used for any marketing purposes unless expecitly opted in. Check out the [Microsoft privacy statement](https://privacy.microsoft.com/en-US/privacystatement).
 
 ## 👒 Take a survey, **get a beanie** (+6 minutes)
-Take [the survey](https://aka.ms/Pycon24Survey) at the booth and recieve a beanie.
+Take [the survey](https://aka.ms/Pycon24Survey) at the booth and receive a beanie.
 
 🤔 What type of questions are we asking? 
 
@@ -46,14 +46,14 @@ Take [the survey](https://aka.ms/Pycon24Survey) at the booth and recieve a beani
 ---
 > How are **YOU** using Python?
 
-<small>Activity must be initiated at the booth and completede before leaving booth #301.</small>
+<small>Activity must be initiated at the booth and completed before leaving booth #301.</small>
 
 ## 🎩 Sign up for Azure Open AI, **get a snap back** (+5 minutes)
 - Step one: Create an Azure account if you do not already have one. To create your account and check out all of the free services available to you see  [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/). 
 
 - Step two: Visit Azure Open AI application page: [https://aka.ms/oaiapply](https://aka.ms/oaiapply) and follow the instructions provided to complete the registration process.
 
-<small>Activity must be initiated at the booth and completede before leaving booth #301.</small>
+<small>Activity must be initiated at the booth and completed before leaving booth #301.</small>
 
 ## 🎮 Sign up for raffle, **you could win an Xbox!** (+30 seconds)
 C'mon! Try to win a game console, on us. **Winner announced Saturday 18th, 12:05pm at booth 301**
@@ -73,13 +73,12 @@ Catch some of the talks from our team members presenting at PyCon!
 |2:30p – 3:00p|[Eternal sunshine of the spotless development environment](https://us.pycon.org/2024/schedule/presentation/123/)|Sarah Kaiser|301-305 <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
 |3:15p-3:45p|[CPython's Compilation Pipeline](https://us.pycon.org/2024/schedule/presentation/3/)|Irit Katriel|301-305 <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
 |1:00p – 1:30p|[Rest Easy with Jupyrest: Deploy notebooks as web services](https://us.pycon.org/2024/schedule/presentation/95/)|Koushik Krishnan|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
-|1:00p – 1:30p|[Rest Easy with Jupyrest: Deploy notebooks as web services](https://us.pycon.org/2024/schedule/presentation/95/)|Koushik Krishnan|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
 |1:00p – 1:30p|[Building a JIT compiler for CPython](https://us.pycon.org/2024/schedule/presentation/124/)|Brandt Bucher|Ballroom A <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
 |2:30p – 3:00p|[Unlocking the Parallel Universe: Subinterpreters and Free-Threading in Python 3.13](https://us.pycon.org/2024/schedule/presentation/124/)|Anthony Shaw|Ballroom A <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
 
 ### Presentations at the Microsoft Booth #301
 
-If you're in the Expo Hall check out some of our special presentations and **enter to win a XBox**!
+If you're in the Expo Hall, check out some of our special presentations and **enter to win a Xbox**!
 
 ||Time (EST)|Topic|Speaker(s)|Description|Links|
 |---|----|----|----|---|---|
@@ -199,13 +198,13 @@ Visit us at the Microsoft Booth (booth #301) or out in the Hallway Track!
 
 Join our [Microsoft Python Discord](https://aka.ms/python-discord) and connect with other Python developers in the Microsoft Community.
 
-Come say hi to our virtual team members,share your photos with us and make plans to connect with one another in our [#pycon](https://discord.com/channels/702724176489873509/1096501197965361282) channel. 
+Come say hi to our virtual team members, share your photos with us, and make plans to connect with one another in our [#pycon](https://discord.com/channels/702724176489873509/1096501197965361282) channel. 
 
 ### Check out the Python Pulse
 
 [![Python Pulse](assets/python_pulse_banner_1MB-1024x576.png)](https://youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E)
 
-Tune into our monthly [Python Pulse](https://youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E) Series to get updated on the latest Python news and announcements around Microsoft!
+Tune into our monthly [Python Pulse](https://youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E) series to get updated on the latest Python news and announcements around Microsoft!
 
 ## Stay Connected with Microsoft - Microsoft .Source Newsletter
 Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
@@ -224,7 +223,7 @@ If you have any questions or concerns while at the Microsoft Booth, feel free to
 
 - Find and speak to a member of the Microsoft Booth Code of Conduct Team (Eryn Clark & Jay Miller)
 - Reach out to the PyCon US Code of Conduct Team (email: pycon-us-report@python.org)
-- Email our Events Code of Conduct buscond@microsoft.com
+- Email our Events Code of Conduct team at buscond@microsoft.com
 
 ## Trademarks
 
