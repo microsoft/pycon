@@ -31,7 +31,7 @@ Python on Azure is faster than ever! That includes everything from deploying it 
 
 See how fast you can deploy a webapp to azure. Show us your deployed application and you'll get a $50 Gift Card to [The GitHub Shop](https://www.thegithubshop.com/)!
 
-[Learn how to participate](azure-speedrun.md)
+[Learn how to participate](https://github.com/Azure-Samples/simple-flask-server-appservice)
 
 ## 🖼️ Scan a badge or give some feedback, **get some stickers**  (+30 seconds)
 
@@ -67,14 +67,14 @@ Catch some of the talks from our team members presenting at PyCon!
 |Time (EST)|Topic|Speaker(s)|Location|
 |----|----|----|---|
 |Friday 17 May||||
-|11:45a – 12:15p|[What makes a Python debugger possible and how can we make it 100x faster](https://us.pycon.org/2024/schedule/presentation/6/)|Tian Gao|301-305<ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|11:45a – 12:15p|[What makes a Python debugger possible and how can we make it 100x faster](https://us.pycon.org/2024/schedule/presentation/6/)|Tian Gao|301-305<ul><li>https://us.pycon.org/2024/schedule/presentation/6/</li></ul>|
 |Saturday 18 May||||
-|12:00p – 12:45p|[Measuring the performance of CPython](https://us.pycon.org/2024/schedule/presentation/10/)|Michael Droettboom|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
-|2:30p – 3:00p|[Eternal sunshine of the spotless development environment](https://us.pycon.org/2024/schedule/presentation/123/)|Sarah Kaiser|301-305 <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
-|3:15p-3:45p|[CPython's Compilation Pipeline](https://us.pycon.org/2024/schedule/presentation/3/)|Irit Katriel|301-305 <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
-|1:00p – 1:30p|[Rest Easy with Jupyrest: Deploy notebooks as web services](https://us.pycon.org/2024/schedule/presentation/95/)|Koushik Krishnan|Ballroom BC <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
-|1:00p – 1:30p|[Building a JIT compiler for CPython](https://us.pycon.org/2024/schedule/presentation/124/)|Brandt Bucher|Ballroom A <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
-|2:30p – 3:00p|[Unlocking the Parallel Universe: Subinterpreters and Free-Threading in Python 3.13](https://us.pycon.org/2024/schedule/presentation/124/)|Anthony Shaw|Ballroom A <ul><li>https://aka.ms/pycon24/add-to-cal/faster-cpython</li></ul>|
+|12:00p – 12:45p|[Measuring the performance of CPython](https://us.pycon.org/2024/schedule/presentation/10/)|Michael Droettboom|Ballroom BC <ul><li>https://us.pycon.org/2024/schedule/presentation/10/</li></ul>|
+|2:30p – 3:00p|[Eternal sunshine of the spotless development environment](https://us.pycon.org/2024/schedule/presentation/123/)|Sarah Kaiser|301-305 <ul><li>https://us.pycon.org/2024/schedule/presentation/123/</li></ul>|
+|3:15p-3:45p|[CPython's Compilation Pipeline](https://us.pycon.org/2024/schedule/presentation/3/)|Irit Katriel|301-305 <ul><li>https://us.pycon.org/2024/schedule/presentation/3/</li></ul>|
+|1:00p – 1:30p|[Rest Easy with Jupyrest: Deploy notebooks as web services](https://us.pycon.org/2024/schedule/presentation/95/)|Koushik Krishnan|Ballroom BC <ul><li>https://us.pycon.org/2024/schedule/presentation/95/</li></ul>|
+|1:00p – 1:30p|[Building a JIT compiler for CPython](https://us.pycon.org/2024/schedule/presentation/124/)|Brandt Bucher|Ballroom A <ul><li>https://us.pycon.org/2024/schedule/presentation/124/</li></ul>|
+|2:30p – 3:00p|[Unlocking the Parallel Universe: Subinterpreters and Free-Threading in Python 3.13](https://us.pycon.org/2024/schedule/presentation/124/)|Anthony Shaw|Ballroom A <ul><li>https://us.pycon.org/2024/schedule/presentation/124/</li></ul>|
 
 ### Presentations at the Microsoft Booth #301
 
